@@ -1,8 +1,16 @@
 
 
 .page {
-  width: 780px;
+  background-color: #8ea7ce;
+  width: 700px;
   margin: auto;
-  font-size: 16px;
-  font-family: 'Source sans pro', Calibri, Tahoma, sans-serif;
+  font-size: 18px;
+  font-family: 'Source sans pro', sans-serif;
+}
+
+.info {
+  margin-left: 400px;
+}
+
+.photo {
 }
